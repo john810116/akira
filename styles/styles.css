@@ -1,0 +1,96 @@
+header{
+	width: 900px;
+	height: 150px;
+	border: none
+	float: left;
+	background-color:none;
+}
+.menu{
+	width:400px;
+	height:50px;
+	border: 1px solid #000;
+	float: right;
+	background-color:none;
+	font: serif;
+	margin: 3px;
+}   
+
+
+#logo{
+	width: 300px;
+	height: 150px;
+	border:none;
+	background-color: gray;
+	
+}
+.form{
+	border: 3px;
+	background-color:blue;	
+
+
+}
+#contenedor{
+	width: 900px;
+	height: 3000px;
+	border: 1px solid #000;
+	margin: auto;
+
+
+
+}
+aside{
+	width: 100px;
+	height: 400px;
+	border: 1px solid #000;
+	background-color: purple;
+	float: left;
+	margin: 1px 1px 1px 1px;
+
+}
+#noticia{
+	width: 260px;
+	height: 400px;
+	border: 1px solid #000;
+	float: right;
+	background-color: yellow;
+	margin: 1px 1px 1px 1px;
+}
+#noticia1{
+	width: 260px;
+	height: 400px;
+	border: none;
+	background-color: blue;
+	float: right;
+	margin: 1px 1px 1px 1px;
+}
+#noticia2{
+	width: 260px;
+	height: 400px;
+	border: 1px solid #000;
+	float: right;
+	background-color: black;
+	margin: 1px 1px 1px 2px;
+}
+#dos{
+	width: 900px;
+	height:402px;
+	border: none;
+
+}
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+}
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 0px solid #ccc;
+	color: #fff
+
+}
+
+
+
+
